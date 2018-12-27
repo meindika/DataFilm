@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DataFilm</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_buatdatafilm">Form Data Film Baru</string>
+    <string name="title_activity_lihatdatafilm">Lihat Data Film</string>
+    <string name="title_activity_updatedatafilm">Update Data Film</string>
+</resources>
